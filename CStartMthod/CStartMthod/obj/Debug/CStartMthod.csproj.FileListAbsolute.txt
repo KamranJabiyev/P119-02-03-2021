@@ -1,0 +1,6 @@
+E:\P119\C#\CStartMthod\CStartMthod\bin\Debug\CStartMthod.exe.config
+E:\P119\C#\CStartMthod\CStartMthod\bin\Debug\CStartMthod.exe
+E:\P119\C#\CStartMthod\CStartMthod\bin\Debug\CStartMthod.pdb
+E:\P119\C#\CStartMthod\CStartMthod\obj\Debug\CStartMthod.csprojAssemblyReference.cache
+E:\P119\C#\CStartMthod\CStartMthod\obj\Debug\CStartMthod.exe
+E:\P119\C#\CStartMthod\CStartMthod\obj\Debug\CStartMthod.pdb
